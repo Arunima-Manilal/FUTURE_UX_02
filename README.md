@@ -66,10 +66,11 @@ The proposed mobile application provides a digital appointment booking system wh
 
 ---
 
-  ## Screenshots
+  ### Screenshots
 
-### Cafe Mocha UI UX
-![Cafe Mocha ](CafeMocha UI.png)
+### Complete UI Design
+
+![Cafe Mocha UI](cafe-mocha-ui.png)
 
 
 ## User Flow
