@@ -15,6 +15,19 @@ The objective is to simplify the booking experience while reducing scheduling co
 Local Café – Cafe Mocha
 
 ---
+## Booking Flow
+
+Login → Browse Menu → Add Items → Cart → Reserve Table → Select Date & Time → Place Order → Booking Confirmation
+
+---
+
+## UX Decisions
+
+* Mobile-first interface for comfortable one-handed use.
+* Large buttons and clear navigation improve accessibility.
+* Minimal booking steps reduce user effort.
+* Consistent colours and typography create a professional appearance.
+* Instant confirmation provides users with confidence that their reservation is successful.
 
 ## Problem Statement
 
@@ -55,13 +68,13 @@ The proposed mobile application provides a digital appointment booking system wh
 
 1. Splash Screen
 2. Login
-3. Home/Menu
+3. Home
 4. Add Items to Cart
 5. Cart Review
 6. Reserve Table
-7. Select Date & Time
-8. Place Order
-9. Booking Confirmation
+   Select Date & Time
+7. Place Order
+8. Booking Confirmation
 
 ---
 
@@ -90,15 +103,6 @@ The proposed mobile application provides a digital appointment booking system wh
 ## Tools Used
 
 * Figma
-
----
-
-## Color Palette
-
-* Primary: #284B63
-* Secondary: #43C6DB
-* Accent: #F2B01E
-* Background: #F4F7FA
 
 ---
 
