@@ -29,6 +29,8 @@ Login → Browse Menu → Add Items → Cart → Reserve Table → Select Date &
 * Consistent colours and typography create a professional appearance.
 * Instant confirmation provides users with confidence that their reservation is successful.
 
+  
+
 ## Problem Statement
 
 Many local cafés still rely on phone calls, WhatsApp messages, or handwritten registers to manage reservations. These traditional methods often result in:
@@ -63,6 +65,12 @@ The proposed mobile application provides a digital appointment booking system wh
 * Regular café customers
 
 ---
+
+  ## Screenshots
+
+### Cafe Mocha UI UX
+![Cafe Mocha ](CafeMocha UI.png)
+
 
 ## User Flow
 
